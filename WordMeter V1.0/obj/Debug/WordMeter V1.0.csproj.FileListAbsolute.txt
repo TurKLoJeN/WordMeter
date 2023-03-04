@@ -1,0 +1,11 @@
+C:\Users\TurKLoJeN\source\repos\WordMeter V1.0\WordMeter V1.0\bin\Debug\WordMeter V1.0.exe.config
+C:\Users\TurKLoJeN\source\repos\WordMeter V1.0\WordMeter V1.0\bin\Debug\WordMeter V1.0.exe
+C:\Users\TurKLoJeN\source\repos\WordMeter V1.0\WordMeter V1.0\bin\Debug\WordMeter V1.0.pdb
+C:\Users\TurKLoJeN\source\repos\WordMeter V1.0\WordMeter V1.0\obj\Debug\WordMeter V1.0.csproj.AssemblyReference.cache
+C:\Users\TurKLoJeN\source\repos\WordMeter V1.0\WordMeter V1.0\obj\Debug\WordMeter V1.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\TurKLoJeN\source\repos\WordMeter V1.0\WordMeter V1.0\obj\Debug\WordMeter_V1._0.Form1.resources
+C:\Users\TurKLoJeN\source\repos\WordMeter V1.0\WordMeter V1.0\obj\Debug\WordMeter_V1._0.Properties.Resources.resources
+C:\Users\TurKLoJeN\source\repos\WordMeter V1.0\WordMeter V1.0\obj\Debug\WordMeter V1.0.csproj.GenerateResource.cache
+C:\Users\TurKLoJeN\source\repos\WordMeter V1.0\WordMeter V1.0\obj\Debug\WordMeter V1.0.csproj.CoreCompileInputs.cache
+C:\Users\TurKLoJeN\source\repos\WordMeter V1.0\WordMeter V1.0\obj\Debug\WordMeter V1.0.exe
+C:\Users\TurKLoJeN\source\repos\WordMeter V1.0\WordMeter V1.0\obj\Debug\WordMeter V1.0.pdb
